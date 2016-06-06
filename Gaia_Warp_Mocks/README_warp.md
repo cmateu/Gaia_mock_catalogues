@@ -20,9 +20,9 @@ Note: The full catalogues are available upon request to cmateu @ cida.gob.ve. We
 
 The structure of the catalogues is the following:
 
-Av, V, Gmag, Grvs : V-band extinction; V-band, G and Grvs apparent magnitudes
-xX,xY,xZ,xVX,xVY,xVZ : error-free cartesian galactocentric coordinates (kpc) and velocities (km/s)
-xl_deg,xb_deg,xRhel_kpc,xmulcosb_masyr,xmub_masyr,xvrad : error-free observables (l,b, heliocentric distance in kpc, proper motions in mas/yr, radial velocities in km/s)
-gX,gY,gZ,gVX,gVY,gVZ : error-convolved cartesian galactocentric coordinates and velocities.
-gl_deg,gb_deg,gRhel_kpc,gmulcosb_masyr,gmub_masyr,xvrad : error-convolved observables
-VI: Observed (V-I)c colour
+- Av, V, Gmag, Grvs : V-band extinction; V-band, G and Grvs apparent magnitudes
+- xX,xY,xZ,xVX,xVY,xVZ : error-free cartesian galactocentric coordinates (kpc) and velocities (km/s)
+- xl_deg,xb_deg,xRhel_kpc,xmulcosb_masyr,xmub_masyr,xvrad : error-free observables (l,b, heliocentric distance in kpc, proper motions in mas/yr, radial velocities in km/s)
+- gX,gY,gZ,gVX,gVY,gVZ : error-convolved cartesian galactocentric coordinates and velocities.
+- gl_deg,gb_deg,gRhel_kpc,gmulcosb_masyr,gmub_masyr,xvrad : error-convolved observables
+- VI: Observed (V-I)c colour

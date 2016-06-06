@@ -3,7 +3,7 @@ Gaia Mock Catalogues
 
 **DESCRIPTION**
 
-Mock Gaia catalogues based on test particle and N-body simulations of different Milky Way structures. These catalogues were produced by the people listed in the AUTHORS section, the publication(s) corresponding to each of the libraries are detailed below.
+This repository serves Mock Gaia catalogues based on test particle and N-body simulations of different Milky Way structures, produced by the people listed in the AUTHORS section. The publications corresponding to each of the libraries are detailed below.
 
 Three catalogue libraries are included so far:
 
