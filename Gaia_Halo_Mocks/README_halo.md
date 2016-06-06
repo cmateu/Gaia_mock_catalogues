@@ -25,6 +25,8 @@ Each of the files provided has the following structure:
 - IDstream: progenitor ID. Stars with same IDstream come were accreted in the same progenitor.
 - IDpole: pole detection label in pole-count map.
 
+The catalogues provided contain the full sample of stars for each halo. Catalogues are provided only for Aquarius A2 and C2 haloes. The B2, D2 and E2 haloes, as well as analogous catalogues for 6 EAGLE-zoom haloes are available upon request to cmateu @ cida.gob.ve. We will soon make the publicly available through an ftp repository.
+
 Library logs:
 -------------
 

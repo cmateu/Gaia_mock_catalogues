@@ -12,7 +12,8 @@ The file names follow this syntax: OBEE27_p0.qt1.dat.
 The first two letters denote the stellar tracer used. OB, AA and RC denote respectively Main Sequence OB stars, Main Sequence A stars and Red Clump giants.
 EE27 indicates the catalogue includes only Gaia observable stars (G<20) and the warp model maximum tilt angle is 27 deg (at a distance of 20 kpc). The tilt angle dependence upon galactocentric distance (r) is given in Eq. 2 of Abedi et al. 2014.
 p0 indicates the model without twisting of the line of nodes.
-qt1 indicates this is a random sample with one quarter of the total number of stars expected. Table 2 in Abedi et al. 2014 summarizes
+
+The files provided here (qt1) contain a random sample with one quarter of the total number of stars expected. Table 2 in Abedi et al. 2014 summarizes the total number of stars simulated for each tracer.
 
 Note: The full catalogues are available upon request to cmateu @ cida.gob.ve. We will soon make the publicly available through an ftp repository.
 
